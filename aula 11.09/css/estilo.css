@@ -1,0 +1,21 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(49, 231, 255);
+    
+}
+
+
+label{
+    display: block;
+    margin-top: 1rem;
+}
+
+.formulario{
+    margin: 2rem;
+    padding: 2rem;
+}
+input{
+    border-radius: 0.5;
+    border-color: aquamarine;
+}
+
