@@ -48,7 +48,7 @@ body {
   height: 150px;
   object-fit: cover;
   border-radius: 50%;
-  border: 3px solid #25D366;
+  border: 3px solidrgb(0, 0, 0);
   display: block;
   margin: 0 auto 20px auto;
 }
